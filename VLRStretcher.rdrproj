@@ -3,7 +3,7 @@
     <項目 位置="Source\Main\App.rdr" 開く="○" />
     <項目 位置="Source\Main\Main.rdr" 開く="○" />
   </一覧>
-  <バージョン 値="1.0.0.0">
+  <バージョン 値="0.1.0.0">
     <項目 名前="FileDescription" 値="VLRStretcher" />
     <項目 名前="CompanyName" 値="Milkeyyy" />
     <項目 名前="ProductName" 値="VLRStretcher" />
